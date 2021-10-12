@@ -7,7 +7,7 @@
 >>>>>>> d6dd52834b8666acdedd613c899d4ba0d517e408
  
  
-## Run it locally 
+## Run it locally  
 1. Clone the repo
 2. Do a `npm install`
 3. Put youtube API keys in the sample env file and rename it to `.env`
